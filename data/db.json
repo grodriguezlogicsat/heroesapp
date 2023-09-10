@@ -166,6 +166,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "IGIldGk",
+      "superhero": "Cloud",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Cloud Strife",
+      "first_appearance": "Durante Crisis Core: Final Fantasy VII",
+      "characters": "Cloud",
+      "alt_img": "https://64.media.tumblr.com/eefb5eec22bf4bb8ac36550361c2704b/6bd48f76d88ebf31-36/s1280x1920/b1f0d7c41bf3f46943057c3a8c26d1e4d28c097e.jpg"
     }
   ]
 }
